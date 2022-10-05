@@ -1,0 +1,93 @@
+body{        
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+}
+h1{
+    color: aqua;
+    text-align: center;
+    font-family: 'Courgette', cursive; ;
+    padding-top: 100px;
+    font-size: 3rem;
+    font-weight: bold;
+
+
+}
+h2{
+    text-align: center;
+    color: white;
+    
+}
+h4{
+    color: aqua;
+}
+a:link {
+    text-decoration: none;
+
+}
+a:visited {
+    color:brown ;
+}
+a:hover {
+    background-color: white;
+    font-size: 20px;
+}
+a:active {
+text-transform: uppercase;
+}
+ul{
+    position: fixed;
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    justify-content: end;
+    /* word-spacing: 2px; */
+
+}
+ul li{
+    padding: 10px;
+    margin-right: 60px;
+}
+p{
+    color: white;
+}
+.gallery1 {
+    padding: 20px;
+    border-radius: 250px;
+}
+.gallery2 {
+    padding: 20px;
+    border-radius: 250px;
+}
+.gallery3 {
+    padding: 20px;
+    border-radius: 250px;
+}
+.gallery4 {
+    padding: 20px;
+    border-radius: 250px;
+}
+.gallery5 {
+    padding: 20px;
+    border-radius: 250px;
+}
+.gallery6 {
+    padding: 20px;
+    border-radius: 250px;
+}
+.gallery7 {
+    padding: 20px;
+    border-radius: 250px;
+}
+.gallery8 {
+    padding: 20px;
+    border:none;
+    border-radius: 250px;
+}
+.gallery9 {
+    padding: 20px;
+    border: none;
+    border-radius: 250px;
+}

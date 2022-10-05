@@ -1,0 +1,44 @@
+body{
+    background-color: burlywood;
+}
+h2{
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+  color: darkred;
+  font-size: 1.5rem;
+  text-align: center;
+  font-style: oblique;
+}
+.line {
+    display: inline-block;
+    position: relative;
+
+}
+.line-2 {
+    position: relative;
+    bottom: 40px;
+    left: 200px;
+    
+}
+.line-3 {
+    position: relative;
+    bottom: 80px;
+    left: 500px;
+}
+ul{
+    position: fixed;
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    justify-content: end;
+    /* word-spacing: 2px; */
+
+}
+ul li{
+    padding: 10px;
+    margin-right: 60px;
+}
