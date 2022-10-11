@@ -1,5 +1,5 @@
 body{        
-    background-color: black;
+    background-color: #e0ba7e;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -25,6 +25,7 @@ h4{
 }
 a:link {
     text-decoration: none;
+    color:lime;
 
 }
 a:visited {
@@ -43,6 +44,8 @@ ul{
     display: flex;
     list-style-type: none;
     justify-content: end;
+    top: 0;
+
     /* word-spacing: 2px; */
 
 }
@@ -53,41 +56,65 @@ ul li{
 p{
     color: white;
 }
+.gallery{
+    padding-left: 30px;
+}
 .gallery1 {
     padding: 20px;
     border-radius: 250px;
+    margin-right: 20px;
+    padding-left: 30px;
 }
 .gallery2 {
     padding: 20px;
     border-radius: 250px;
+    padding-left: 30px;
 }
 .gallery3 {
     padding: 20px;
     border-radius: 250px;
+    padding-left: 30px;
 }
 .gallery4 {
     padding: 20px;
     border-radius: 250px;
+    padding-left: 30px;
 }
 .gallery5 {
     padding: 20px;
     border-radius: 250px;
+    padding-left: 30px;
 }
 .gallery6 {
     padding: 20px;
     border-radius: 250px;
+    padding-left: 30px;
 }
 .gallery7 {
     padding: 20px;
     border-radius: 250px;
+    padding-left: 30px;
 }
 .gallery8 {
     padding: 20px;
     border:none;
     border-radius: 250px;
+    padding-left: 30px;
 }
 .gallery9 {
     padding: 20px;
     border: none;
     border-radius: 250px;
+    padding-left: 30px;
 }
+.logo{
+    height: 200px;
+    width: 200px;
+    /* background-color: burlywood; */
+    position: fixed;
+    top: 0;
+}
+.logo1{
+    background-color:#e0ba7e;
+}
+
